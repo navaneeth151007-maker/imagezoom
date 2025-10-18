@@ -114,8 +114,7 @@ h2 {
 }
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-10-10 165658" src="https://github.com/user-attachments/assets/67442ec7-02bd-4cfa-8278-21886e9ba5cf" />
-
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/af87cc52-489f-436d-9d20-1cc08622f84e" />
 
 
 
